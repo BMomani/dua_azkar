@@ -1,0 +1,133 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+<!--
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MenuActivity" >
+-->
+        <!--
+        This title strip will display the currently visible page title, as well as the page
+        titles for adjacent pages.
+        -->
+<!--
+        <android.support.v4.view.PagerTitleStrip
+            android:id="@+id/pager_title_strip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:background="#33b5e5"
+            android:paddingBottom="4dp"
+            android:paddingTop="4dp"
+            android:textColor="#fff" />
+
+    </android.support.v4.view.ViewPager>
+-->
+    <ImageView android:id="@+id/left_border"
+        android:background="@drawable/border_left"
+        android:contentDescription="border"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent" />
+    <ScrollView
+        android:id="@+id/scroll_id"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+        <RelativeLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:id="@+id/bismillah"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/duaImg"/>
+            <ImageView
+                android:id="@+id/duaImg"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"/>
+            <ImageView
+                android:id="@+id/sep1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/duaImg"/>
+            <TextView
+                android:id="@+id/translitText"
+                android:layout_marginLeft="35dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sep1"/>
+            <TextView
+                android:id="@+id/translit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/translitText"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#524949"/>
+            <ImageView
+                android:id="@+id/sep2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/translit"/>
+
+            <TextView
+                android:id="@+id/transText"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="35dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sep2"/>
+            <TextView
+                android:id="@+id/trans"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/transText"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#2E2525"/>
+            <TextView
+                android:id="@+id/ref"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/trans"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_alignParentRight="true"
+                android:clickable="true"
+                android:textColor="#2F89DD"
+                />
+            <View
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/ref">
+            </View>
+        </RelativeLayout>
+    </ScrollView>
+    <ImageView
+        android:id="@+id/right_border"
+        android:background="@drawable/border_right"
+        android:contentDescription="border"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent" />
+   <!-- <com.duaandazkar.duaazkar.AudioStatusBar
+        android:id="@+id/audio_area"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/audiobar_height"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="0px"
+        android:background="@color/transparent_actionbar_color"
+        android:gravity="bottom"/>-->
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:duaazkar="http://schemas.android.com/apk/res-auto">
+    <!-- Search / will display always -->
+    <item android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:title="@string/action_search"
+        duaazkar:showAsAction="always"/>
+    <!-- Check updates -->
+    <item android:id="@+id/action_favorite"
+        android:icon="@drawable/not_favorite"
+        android:title="@string/action_favorite"
+        duaazkar:showAsAction="always" />
+
+    <item android:id="@+id/action_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:title="@string/action_settings"
+        duaazkar:showAsAction="ifRoom" />
+
+    <!-- Help -->
+    <item android:id="@+id/action_jump"
+        android:title="@string/action_jump"
+        duaazkar:showAsAction="never"/>
+    <item android:id="@+id/action_help"
+        android:icon="@drawable/ic_action_help"
+        android:title="@string/action_help"
+        duaazkar:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dua Azkar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_help">Help</string>
+    <string name="action_jump">Jump</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_open">Navigation Menu Open</string>
+    <string name="drawer_closed">Navigation Menu Closed</string>
+    <string name="infinity">&#8734;</string>
+
+    <!-- Settings -->
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="pref_title">Settings</string>
+
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_update_setting">Update Settings</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Salaah</item>
+        <item >Evening</item>
+        <item >Morning</item>
+        <item >Daily Dua</item>
+        <item >Rabbana</item>
+        <item >Ruquiya</item>
+        <item>Favorites</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/icon1</item>
+        <item>@drawable/icon2</item>
+        <item>@drawable/icon3</item>
+        <item>@drawable/icon4</item>
+        <item>@drawable/icon5</item>
+        <item>@drawable/icon6</item>
+        <item>@drawable/star_hdpi</item>
+    </array>
+
+
+</resources>

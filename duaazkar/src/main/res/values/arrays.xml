@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="updateFrequency">
+            <item name="1">Daily</item>
+            <item name="7">Weekly</item>
+            <item name="3">Yearly</item>
+            <item name="0">Never(I will Myself) </item>
+        </string-array>
+        <string-array name="updateFrequencyValues">
+            <item name="1">1</item>
+            <item name="7">7</item>
+            <item name="30">30</item>
+            <item name="0">0</item>
+        </string-array>
+    
+    <string-array name="salah">
+        <item>@drawable/s1</item>
+        <item>@drawable/s2</item>
+        <item>@drawable/s3</item>
+        <item>@drawable/s4</item>
+        <item>@drawable/s5</item>
+        <item>@drawable/s6</item>
+        <item>@drawable/s7</item>
+        <item>@drawable/s8</item>
+        <item>@drawable/s9</item>
+        <item>@drawable/s10</item>
+        <item>@drawable/s11</item>
+        <item>@drawable/s12</item>
+        <item>@drawable/s13</item>
+
+    </string-array>
+    <string-array name="salah_count">
+        <item>Once</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>33 Times, 33 Times, 33 Times, Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Seven</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+    </string-array>
+    <string-array name="salah_trans">
+        <item>Allah is the greatest</item>
+        <item>I ask Allah to forgive me</item>
+        <item>O\' Allah, You are the Peace, and You are the Source of Peace, You are Blessed, Oh Possessor of Glory and Honor</item>
+        <item>O\' Allah Assist me in remembering you, in thanking you, and worshipping you in the best of manners</item>
+        <item>None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent. There is no might nor power except with Allah, none has the right to be worshipped except Allah and we worship none except Him. For Him is all favor, grace, and glorious praise. None has the right to be worshipped except Allah and we are sincere in faith and devotion to Him although the disbelievers detest it</item>
+        <item>Glorious is Allah (Recite 33 times)\nPraises are due to Allah (Recite 33 times)\nAllah is the greatest (Recite 33 times)\nNone has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, and He is over all things omnipotent</item>
+        <item>None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, and He is over all things omnipotent.</item>
+        <item>Oh Allah! We ask You to be pleased with us, reward us with the Paradise and we seek Your refuge from Your anger and the punishment of the Fire.</item>
+        <item>(255) Allah is He besides Whom there is no god, the Everliving, the Self-subsisting by Whom all subsist; slumber does not overtake Him nor sleep; whatever is in the heavens and whatever is in the earth is His; who is he that can intercede with Him but by His permission? He knows what is before them and what is behind them, and they cannot comprehend anything out of His knowledge except what He pleases, His knowledge extends over the heavens and the earth, and the preservation of them both tires Him not, and He is the Most High, the Great</item>
+        <item>1: Say: He, Allah, is One 2: Allah is He on Whom all depend 3: He begets not, nor is He begotten 4: And none is like Him</item>
+        <item>1: Say: I seek refuge in the Lord of the dawn 2: From the evil of what He has created 3: And from the evil of the utterly dark night when it comes 4: And from the evil of those who blow on knots 5: And from the evil of the envious when he envies</item>
+        <item>1: Say: I seek refuge in the Lord of men 2: The King of men 3: The god of men 4: From the evil of the whisperings of the slinking (Shaitan) 5: Who whispers into the hearts of men 6: From among the jinn and the men</item>
+        <item>O Allah, confer blessings upon Muhammad and upon the family of Muhammad in the manner You conferred blessings upon Ibrahim. Verily, You are the Praiseworthy, the Majestic. O Allah, bless Muhammad and the family of Muhammad in the manner You blessed Ibrahim. Verily, You are the Praiseworthy, the Majestic.</item>
+    </string-array>
+    <string-array name="salah_translit">
+        <item>Allah-hu Akbar</item>
+        <item>Astagfirullah</item>
+        <item>Allahumma ang-tas-salam, Waminkas-salam, Tabarakta ya zaal-jalali wal-ikram</item>
+        <item>Allahumma aah-inni ala Zikrika,Wa shukrika, wa husni ibadatik</item>
+        <item>La ilaha illa allahu wah dahu la shareeka laahu, lahul mulku wa lahul hamdu, wa huwa \'ala kullee shay\'in qadeer, La hawla wa laqu-aata illah billah, la ilaha illAllah wala na\'budu illayyah, lahun-ni\'matu, wa lahul fadl, wa lahu-saana ul hasanu, la ilaha illAllahhu mukhliseena lahudeen, wa law karihal kafiroon</item>
+        <item>Sub-han Allah (Recite 33 times)\nAlhamdu lillah (Recite 33 times)\nAllah hu Akbar (Recite 33 times)\nLa ilaha illa allahu wah dahu la shareeka lahu, Lahul mulku wa lahul hamdu, Wa huwa \'ala kullee shay\'in qadeer</item>
+        <item>La ilaha illa allahu wah dahu la shareeka lahu, Lahul mulku wa lahul hamdu, yohee wa yumeeto, Wa huwa \'ala kullee shay\'in qadeer</item>
+        <item>Allahumma inni aas-aluka ridaka wal jannah, Wa aa\'uzhu bika min sakhatika wan-nar</item>
+        <item>Allahu laaa \'ilaaha \'illaa Huu. \'Al-Hayyul-Qayyuum. Laa ta\'-khuzuhuu sinatunw-wa laa nawm. Lahuu maa fissamaawaati wa ma fil-\'arz. Man-zallazii yashfa-\'u\'indahuuu \'illaa bi-\'iznih? Ya\'-lamu maa bayna \'aydiihim wa maa khalfahum. Wa laa yuhiituuna bi-shay-\'im-min \'ilmihiii \'illaa bimaa shaaa\'. Wasi-\'a Kursiyyu-hus-Samaawaati wal-\'arz; wa laa ya-\'uuduhuu hifzu -humaa wa Huwal-\'Aliyyul-\'Aziim</item>
+        <item>1. Qulhu walla-hu ahad, 2. Alla huss-samad, 3. Lam yalid walam yoolad, 4. Walam ya kul-lahu kufu waan ahaad</item>
+        <item>1. Qul aaoo\' zubi-rabbil falaaq, 2. Min sharri ma khalaqa, 3. Wamin sharri ghasiqin eeza waqab 4. Wamin shar-rin naffa-saa-thi feel  uoo-qaadh 5. Wamin sharri haa-sidin iza-hasadh</item>
+        <item>1. Qul a\'oozu bi-rabbin naas 2. Malikin naas 3. Ilah hin-naas 4. Min sharril was-wasil hannas 5. Alla-zee yu-was-wisu fee sudoo rin-naas 6. Minal jinn-nati waalnnas</item>
+        <item>Allah humma salli \'ala muhammadin wa\'ala ali muhammadin,kama sal\'layta \'ala ibraheema wa\'ala ali ibraheema innaka hameedum majeed Allah humma baraka \'ala muhammadin wa\'ala ali muhammadin, kama barak ta \'ala ibraheema wa \'ala ali ibraheema innaka hameedum majeed</item>
+    </string-array>
+    <string-array name="salah_desc">
+        <item>Recite immediately after Salaam</item>
+        <item>Recite after every Fard Salaah</item>
+        <item>Recite after every Fard Salaah</item>
+        <item>Recite after every Fard Salaah</item>
+        <item>Recite after every Fard Salaah</item>
+        <item>Recite after every Fard Salaah</item>
+        <item>Recite after Fajr &amp; Magrib Saalah</item>
+        <item>Recite after Fajr &amp; Magrib Saalah</item>
+        <item>Recite after every Fard Salaah</item>
+        <item>Recite Three Times After Fajr &amp; Magrib and Once After Zuhr, Asar &amp; Esha</item>
+        <item>Recite Three Times After Fajr &amp; Magrib and Once After Zuhr, Asar &amp; Esha</item>
+        <item>Recite Three Times After Fajr &amp; Magrib and Once After Zuhr, Asar &amp; Esha</item>
+        <item>Recited Before Dua (Raising hand)</item>
+    </string-array>
+    <string-array name="salah_ref">
+        <item>Al-Bhukari , Muslim 3/1685At Trimidhi 2/103 &amp; Ahmed 5/218</item>
+        <item>Sahih Muslim</item>
+        <item>Abu Dawud 2:62, Ibn Majah 2:1267,At-Trimidhi 5:515,Ahmed 5:360</item>
+        <item>Sahih Al Bhukari 4:95 Muslim 4:2071</item>
+        <item>Muslim Book 1:415</item>
+        <item>Muslim Book 1:418</item>
+        <item>Sahih Muslim 1:418 &amp; 597 and Ahmed 2:371</item>
+        <item>Abu Dawud &amp; Sahih Ibn Majah 2/328</item>
+        <item>Surah al-Baqarah 2: 255,Al-Hakim 1/562, an-Nasa\'i and at-Tabarani</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Al Bhukari 1:286 no.797 &amp; Muslim 1:301 no.402</item>
+    </string-array>
+    <string-array name="evening">
+        <item>@drawable/e1</item>
+        <item>@drawable/e2</item>
+        <item>@drawable/e3</item>
+        <item>@drawable/e4</item>
+        <item>@drawable/e5</item>
+        <item>@drawable/e6</item>
+        <item>@drawable/e7</item>
+        <item>@drawable/e8</item>
+        <item>@drawable/e9</item>
+        <item>@drawable/e10</item>
+        <item>@drawable/e11</item>
+        <item>@drawable/e12</item>
+        <item>@drawable/e13</item>
+        <item>@drawable/e14</item>
+        <item>@drawable/e15</item>
+        <item>@drawable/e16</item>
+        <item>@drawable/e17</item>
+        <item>@drawable/e18</item>
+        <item>@drawable/e19</item>
+        <item>@drawable/e20</item>
+        <item>@drawable/e21</item>
+        <item>@drawable/e22</item>
+        <item>@drawable/e23</item>
+        <item>@drawable/e24</item>
+        <item>@drawable/e25</item>
+        <item>@drawable/e26</item>
+        <item>@drawable/e27</item>
+        <item>@drawable/e28</item>
+        <item>@drawable/e29</item>
+        <item>@drawable/e30</item>
+        <item>@drawable/e31</item>
+    </string-array>
+    <string-array name="evening_count">
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Four</item>
+        <item>Three</item>
+        <item>Seven</item>
+        <item>100</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="evening_trans">
+        <item>2. All the praises and thanks be to Allah, the Lord of the \'Alamin (mankind, jinns and all that exists) 3. The Most Beneficent, the Most Mercifull 4. The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)  5. You (Alone) we worship, and You (Alone) we ask for help (for each and everything)  6. Guide us to the Straight Way 7. The Way of those on whom You have bestowed Your Grace, not (the way) of those who earned Your Anger (such as the Jews), nor of those who went astray (such as the Christians)</item>
+        <item>1: Alif Lam Mim 2: This Book, there is no doubt in it, is a guide to those who guard (against evil) 3: Those who believe in the unseen and keep up prayer and spend out of what We have given them 4:  And who believe in that which has been revealed to you and that which was revealed before you and they are sure of the hereafter 5: These are on a right course from their Lord and these it is that shall be successful</item>
+        <item>(255) Allah is He besides Whom there is no god, the Everliving, the Self-subsisting by Whom all subsist; slumber does not overtake Him nor sleep; whatever is in the heavens and whatever is in the earth is His; who is he that can intercede with Him but by His permission? He knows what is before them and what is behind them, and they cannot comprehend anything out of His knowledge except what He pleases, His knowledge extends over the heavens and the earth, and the preservation of them both tires Him not, and He is the Most High, the Great</item>
+        <item>(256) There is no compulsion in religion; truly the right way has become clearly distinct from error; therefore, whoever disbelieves in the Shaitan and believes in Allah he indeed has laid hold on the firmest handle, which shall not break off, and Allah is Hearing, Knowing</item>
+        <item>(257) Allah is the guardian of those who believe. He brings them out of the darkness into the light; and (as to) those who disbelieve, their guardians are Shaitans who take them out of the light into the darkness; they are the inmates of the fire, in it they shall abide</item>
+        <item>(284) Whatever is in the heavens and whatever is in the earth is Allah\'s; and whether you manifest what is in your minds or hide it, Allah will call you to account according to it; then He will forgive whom He pleases and chastise whom He pleases, and Allah has power over all things</item>
+        <item>(285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."</item>
+        <item>(286) Allah does not impose upon any soul a duty but to the extent of its ability; for it is (the benefit of) what it has earned and upon it (the evil of) what it has wrought: Our Lord! do not punish us if we forget or make a mistake; Our Lord! do not lay on us a burden as Thou didst lay on those before us, Our Lord do not impose upon us that which we have not the strength to bear; and pardon us and grant us protection and have mercy on us, Thou art our Patron, so help us against the unbelieving people</item>
+        <item>1: Say: He, Allah, is One 2: Allah is He on Whom all depend 3: He begets not, nor is He begotten 4: And none is like Him</item>
+        <item>1: Say: I seek refuge in the Lord of the dawn 2: From the evil of what He has created 3: And from the evil of the utterly dark night when it comes 4: And from the evil of those who blow on knots 5: And from the evil of the envious when he envies</item>
+        <item>1: Say: I seek refuge in the Lord of men 2: The King of men 3: The god of men 4: From the evil of the whisperings of the slinking (Shaitan) 5: Who whispers into the hearts of men 6: From among the jinn and the men</item>
+        <item>We have reached the evening and at this very time unto Allah belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent.My Lord, I ask You for the good of this night and the good of what follows it and I take refuge in You from the evil of this nignt and the evil of what follows it. My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave.  [Muslim, Abu Dawud, Tirmidhi, Nasa\'i, and Ahmad]</item>
+        <item>We rise upon the fitrah of Islaam, and the word of pure faith, and upon the religion of our Prophet Muhammad and the religion of our forefather Ibraheem, who was a Muslim and of true faith and was not of those who associate others with Allaah</item>
+        <item>O Allah, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return</item>
+        <item>O Allah, I rose up in the morning with blessings, strength and concealment (of my shortcomings), all of which are from You. So complete all the blessings and strength from You and the concealment for me in this life and the hereafter</item>
+        <item>O Allah, what blessing I or any of Your creation have risen upon, is from You alone, without partner, so for You is all praise and unto You all thanks</item>
+        <item>O my Lord, all praises be to You as it should be due to Your Might and the Greatness of Your Power</item>
+        <item>I am pleased with Allah as a Lord, and Islam as a religion and Muhammad peace be upon to him as a Prophet</item>
+        <item>O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth</item>
+        <item>How perfect Allah is and I praise Him by the number of His creation and His pleasure, and by the weight of His throne, and the ink of His words</item>
+        <item>In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing.</item>
+        <item>‘O Allah, I take refuge in You lest I should commit shirk with You knowingly and I seek Your forgiveness for what I do unknowingly\'</item>
+        <item>I take refuge in Allah’s perfect words from the evil He has created</item>
+        <item>O Allah, Knower of the unseen and the seen, Creator of the heavens and the Earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim</item>
+        <item>O Ever Living,O Self-Subsisting &amp; Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs &amp; do not leave me to myself, even for the blink of an eye</item>
+        <item>O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favor upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.</item>
+        <item>O Allah, ily I have reached the morning and call on You, the bearers of Your throne, Your angles, and all of Your creation to witness that You are Allah, ne has the right to be worshipped except You, alone, without partner and that Muhammad is Your Servant and Messenger </item>
+        <item>O Allah, grant my body health, O Allah, grant my hearing health, O Allah, grant my sight health. None has the right to be worshipped except You ,  O Allah, I take refuge with You from disbelief and poverty, &amp; I take refuge with You from the punishment of the grave. None has the right to be worshipped except You</item>
+        <item>Allah is Sufficient for me, none has the right to be worshipped except Him, upon Him I rely and He is Lord of the exalted throne</item>
+        <item>None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, and He is over all things omnipotent.</item>
+        <item>How perfect Allah is</item>
+    </string-array>
+    <string-array name="evening_translit">
+        <item>2. Alhamdu lilla hi-rabbil Aalameen 3. Ar-rahma nir-raheem 4. Maa liki-yaw mid-deen 5. Iyyaa ka-naAA budu wa-iyya ka-nasta een 6. Ihh-dinass siratal-mustaqeem 7. Sira tall lazee-na an-AAamta Aaalayhim, ghay-ril maghdoo bi-Aalayhim walald-daal-leen</item>
+        <item>1. Alif laam meem 2. Zaa-likal kitabula rayba feehi, hu-dalil muttaqeena 3. Allazeena yu\'minoona bil-ghaybi wayu qee-moona-ssalata wamim-ma razaqna hum-unfiqoon 4. Wal-lazena yu\'minoona bima onzila ilayka wama onzila min qablik, wabial-akhirati hum yu\'qinoon 5. Ola-ika ala hudam mir-rabbi-him wa-ola-ika humul-muflihoon</item>
+        <item>Allahu laaa \'ilaaha \'illaa Huu. \'Al-Hayyul-Qayyuum. Laa ta\'-khuzuhuu sinatunw-wa laa nawm. Lahuu maa fissamaawaati wa ma fil-\'arz. Man-zallazii yashfa-\'u\'indahuuu \'illaa bi-\'iznih? Ya\'-lamu maa bayna \'aydiihim wa maa khalfahum. Wa laa yuhiituuna bi-shay-\'im-min \'ilmihiii \'illaa bimaa shaaa\'. Wasi-\'a Kursiyyu-hus-Samaawaati wal-\'arz; wa laa ya-\'uuduhuu hifzu -humaa wa Huwal-\'Aliyyul-\'Aziim</item>
+        <item>La ikraha feed-deen, Qaath-ta-bayyanar-rush-du minal-ghayy, Fa-mi- yakfur bit-taghooti wa-yuk-mimm biAllahi faqa-diss tamsaka bil-urr-watil-wuss-qa laang-infisama laha ,Walla-hu samee-un alim</item>
+        <item>Allahu waliyul-lazena amanoo yukh-rijuhum minaz-zu-lumati ilan-noor ,waalazee naka faroo awliya-oo-humutta-ghootu yukh-rijoo-nahum minan-noori ilaz-zoolumat, Ou\'la-ika as-habun nar ,Hum fee-ha khalidoon</item>
+        <item>Lillahi ma fee alssamawati wama fee al-ard, Wa-in tubdoo ma fee ang\'fusikum aw tukhfoohu yuhasibkum bihi Allah, Fayagh firu\'li mai-ya-shaoo wa-yu\'az-zubu mai-ya-sha wallahu ala kulli shay-in qadeer</item>
+        <item>Amana alrrasoolu bima onzila ilayhi min rabbihi waalmu/minoona, Kullun amana biAllahi wamala-ikatihi wakutubihi warusulihi, la nufarriqu bayna ahadin min rusulih, Waqaloo sami\'na waata\'na, Ghufranaka rabbana wa-ilayka almaseeru</item>
+        <item>La yukal-liful-lahu nafsan illa wus-aha,Laha ma kasabat wa-alayha maAk-tasabat,Rabbana la tu-akhithna inna-eena aw akhta\'na,Rabbana wala tahmil alina isran kama hamaltahu alal\'lazina min\'qablina,Rabbana wala tuhm-milna ma la ta qatalana bihi,Wao\'fu anna waighfir lana wairhamna,Aang\'ta mawlana faonsurna alal-qawmil kafireen</item>
+        <item>1. Qulhu walla-hu ahad, 2. Alla huss-samad, 3. Lam yalid walam yoolad, 4. Walam ya kul-lahu kufu waan ahaad</item>
+        <item>1. Qul aaoo\' zubi-rabbil falaaq, 2. Min sharri ma khalaqa, 3. Wamin sharri ghasiqin eeza waqab 4. Wamin shar-rin naffa-saa-thi feel  uoo-qaadh 5. Wamin sharri haa-sidin iza-hasadh</item>
+        <item>1. Qul a\'oozu bi-rabbin naas 2. Malikin naas 3. Ilah hin-naas 4. Min sharril was-wasil hannas 5. Alla-zee yu-was-wisu fee sudoo rin-naas 6. Minal jinn-nati waalnnas</item>
+        <item>Amsaina wa-amsal mulku lillah walhamdu lillah, La ilaha illal-lah, wahdahu la shareeka lah, lahul-mulku walahul-hamd, Yohee wa yumeeto wahuwa ala kulli shayin qadeer, Rabbi as-aluka khayrama fee haza-hil-lailathi  wa-khayra ma ,Ba\'daha wa-aoozu-bika min sharri ha\'zaal-yawmi, washarri ma, Ba\'daha rabbi aa\'ozu-bika minal-kasal, wasoo-il kibar, Rabbi aa\'ozubika min aa\'zaa-bin fin-nar, wa aa\'zaa-bin fil-qabr</item>
+        <item>Aamsaina  ala fitratil-islam, Wa\'ala kalimatil-ikhlas, Wa\'ala deeni nabiyyina Muhammad (Sallalla-hu alai hi wasallam), Wa\'ala millati abeena Ibraheema haneefan musliman, Waama kana minal-mushrikeen </item>
+        <item>Allahumma bika amsayna, wabika asbahna, Wabika nahya wabika namootu wa-ilaykal-maseer</item>
+        <item>Allahumma inni aamsaitu minka ,Fi nimatin wa afiyatin wa sitr, fa atimma alayya ni\'mataka ,Wa afiyataka wa sitraka fi-dunya wa al akhira</item>
+        <item>Allahumma ma aamsa bee min nia\'matin, Wa bi-ahadin min khalqik, Faminka wahdaka la shareeka lak, Falakal-hamdu walakash-shukr</item>
+        <item>Yaa rabbil lakal"hamdu kama yanbaghii lijalaali wajhika, wa\'aziimi sultaanik</item>
+        <item>Radeetu billahi rabban wabil-islami deenan wabiMuhammadin sal-lalla-hu alaihi wasallam nabiyya wa rasulaan</item>
+        <item>Allahumma innee as-alukal aa\'fitah fid-dunya wal-akhirah, Allahumma innee as-alukal-aa\'fwa wal-aa\'fiyah, Fee deenee wad-dunya-ya wa-ahlee wa-ma-lee, Allah hummas-tur aaw-ratee wa-amin raw-aa\'tee ,wah-fitnee min bay\'ni yaday wamin khalfee, Wa\'aan ya-mee-nee wa\'aan shimalee wamin fawqee, Wa-aa\'oozu bi-aatha-matika aan oogh-tala min tahtee</item>
+        <item>Subhanal-lahi wabihamdih, Aa\'dada khalqihi warida nafsih, wazinata aa\'rshih, wamidada kalimatih</item>
+        <item>Bismil-lahil-lazee la-ydur-ru ma\'aas-mihi shay-on fil-ardi wala fis-sama-i wahuwas-sameeul-aa\'leem</item>
+        <item>Allah humma inni aa-uzubika min in\'ooshu-riak bika shai\'an aalamu wa aastagfiruka lema la aalaam</item>
+        <item>Aa\'oozu bikalimatil-lahit-tammati min sharri ma khalaq</item>
+        <item>Allahumma AAalimal-ghaybi washshahadah,Fatiras-samawati wal-ard,Rabba kulli shayin wa-ma-leekah, Ashhadu an-alaa ilaha illa ant, Aa\'oozu-bika min sharri nafsee wamin shar-rish-shaytani wa-shirk, Wa\'an aq-tarifa ala nafsee soo-an aw aa-jur-rahu ila muslim</item>
+        <item>Ya hayyu ya qayyoom, birahmatika astagheeth, aas-lih lee sha\'nee kullah, wala takilnee ila nafsee tarfata aay\'in h</item>
+        <item>Allahumma anta rabbee la ilaha illa ant, Khalaq-tanee wa-ana aabduk, Wa-ana ala aah-dika wa wa\'dika mas-ta-taat, Aa\'oozu\'bika min sharri ma sanath, Aboo-o laka bini\'matika aa\'aly, wa-aboo-o bi-zan-bee, Faghfir lee fa-innahu la yagh-firu-zunooba illa ant</item>
+        <item>Allahumma innee aamsaitu oshhiduk, Wa-oshhidu hamalata aarshik, Wamala-ikatik, Wa-jamee\'aa khalqik, ann-naka antal-lahu la ilaha illa ant, Wah\'daka la shareeka lak, Wa-anna Muhammadan aabdu-ka wa-rasooluk</item>
+        <item>Allahumma aa\'fi-nee fee badanee, Allahumma a\'fi-nee fee sam\'ee, Allahumma aa\'fi-nee fee basa\'ree, la ilaha illa-ant, Allahumma innee aa\'oozu-bika minal-kufr, wal-faqr, Wa-aa\'oo-zu-bika min aazaabil-qabr, la ilaha illa-ant</item>
+        <item>Hasbiyal-lahu la ilaha illa huwa, aa\'layhi tawakkalt, wahuwa rabbul-aarshil-aazeem</item>
+        <item>La ilaha illa allahu wah dahu la shareeka lahu, Lahul mulku wa lahul hamdu, Wa huwa \'ala kullee shay\'in qadeer</item>
+        <item>Subhan Allah hee wa bi-hamdihi</item>
+    </string-array>
+    <string-array name="evening_desc">
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+        <item>Evening Azkar</item>
+    </string-array>
+    <string-array name="evening_ref">
+        <item>Sura Al-Fateha V.1-7</item>
+        <item>Sura Al-Bakarah V.1-5</item>
+        <item>Sura Al-Bakarah V.255</item>
+        <item>Sura Al-Bakarah V.256</item>
+        <item>Sura Al-Bakarah V.257</item>
+        <item>Sura Al-Bakarah V.284</item>
+        <item>Sura Al-Bakarah V.285</item>
+        <item>Sura Al-Bakarah V.286</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Sahih Muslim - 4/2088</item>
+        <item>Hisnul muslim - Nasa\'i, Ahmad, &amp; Darimi</item>
+        <item>Trimidhi</item>
+        <item>Kitab al Azkar Al-Uthaymeen, Ibn Sonny</item>
+        <item>Abu Dawood Book 4 hadith 324</item>
+        <item>Kitab al Azkar Al-Uthaymeen, Tahzeeb Al-Kamali Lilmazi</item>
+        <item>Abu Dawood Book 4 hadith 318</item>
+        <item>Ibn Majah Book 2 hadith 323</item>
+        <item>Muslim - Book 4 Hadith 2090</item>
+        <item>Abu Dawood Book 4 hadith 323</item>
+        <item>Kitab al Azkar Al-Uthaymeen, Ahadith mokhtara Limaqdesy</item>
+        <item>Ahmed Book 2 hadith 290</item>
+        <item>Sahih Thirmidi Book 3 hadith 142</item>
+        <item>Sahih Tergib Ue Terhib 1/273</item>
+        <item>Al Bhukari 7/150</item>
+        <item>Abu Dawood Book 4 hadith 317</item>
+        <item>Abu Dawood Book 4 hadith 324</item>
+        <item>Abu Dawood Book 4 hadith 321</item>
+        <item>Muslim Book 4 hadith 2071</item>
+        <item>Muslim 4/2071</item>
+    </string-array>
+    <string-array name="morning">
+        <item>@drawable/m1</item>
+        <item>@drawable/m2</item>
+        <item>@drawable/m3</item>
+        <item>@drawable/m4</item>
+        <item>@drawable/m5</item>
+        <item>@drawable/m6</item>
+        <item>@drawable/m7</item>
+        <item>@drawable/m8</item>
+        <item>@drawable/m9</item>
+        <item>@drawable/m10</item>
+        <item>@drawable/m11</item>
+        <item>@drawable/m12</item>
+        <item>@drawable/m13</item>
+        <item>@drawable/m14</item>
+        <item>@drawable/m15</item>
+        <item>@drawable/m16</item>
+        <item>@drawable/m17</item>
+        <item>@drawable/m18</item>
+        <item>@drawable/m19</item>
+        <item>@drawable/m20</item>
+        <item>@drawable/m21</item>
+        <item>@drawable/m22</item>
+        <item>@drawable/m23</item>
+        <item>@drawable/m24</item>
+        <item>@drawable/m25</item>
+        <item>@drawable/m26</item>
+        <item>@drawable/m27</item>
+        <item>@drawable/m28</item>
+        <item>@drawable/m29</item>
+        <item>@drawable/m30</item>
+        <item>@drawable/m31</item>
+        <item>@drawable/m32</item>
+    </string-array>
+    <string-array name="morning_count">
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Three</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Four</item>
+        <item>Three</item>
+        <item>Seven</item>
+        <item>Once</item>
+        <item>100</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="morning_trans">
+        <item>2. All the praises and thanks be to Allah, the Lord of the \'Alamin (mankind, jinns and all that exists) 3. The Most Beneficent, the Most Mercifull 4. The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)  5. You (Alone) we worship, and You (Alone) we ask for help (for each and everything)  6. Guide us to the Straight Way 7. The Way of those on whom You have bestowed Your Grace, not (the way) of those who earned Your Anger (such as the Jews), nor of those who went astray (such as the Christians)</item>
+        <item>1: Alif Lam Mim 2: This Book, there is no doubt in it, is a guide to those who guard (against evil) 3: Those who believe in the unseen and keep up prayer and spend out of what We have given them 4:  And who believe in that which has been revealed to you and that which was revealed before you and they are sure of the hereafter 5: These are on a right course from their Lord and these it is that shall be successful</item>
+        <item>(255) Allah is He besides Whom there is no god, the Everliving, the Self-subsisting by Whom all subsist; slumber does not overtake Him nor sleep; whatever is in the heavens and whatever is in the earth is His; who is he that can intercede with Him but by His permission? He knows what is before them and what is behind them, and they cannot comprehend anything out of His knowledge except what He pleases, His knowledge extends over the heavens and the earth, and the preservation of them both tires Him not, and He is the Most High, the Great</item>
+        <item>(256) There is no compulsion in religion; truly the right way has become clearly distinct from error; therefore, whoever disbelieves in the Shaitan and believes in Allah he indeed has laid hold on the firmest handle, which shall not break off, and Allah is Hearing, Knowing</item>
+        <item>(257) Allah is the guardian of those who believe. He brings them out of the darkness into the light; and (as to) those who disbelieve, their guardians are Shaitans who take them out of the light into the darkness; they are the inmates of the fire, in it they shall abide</item>
+        <item>(284) Whatever is in the heavens and whatever is in the earth is Allah\'s; and whether you manifest what is in your minds or hide it, Allah will call you to account according to it; then He will forgive whom He pleases and chastise whom He pleases, and Allah has power over all things</item>
+        <item>(285) The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."</item>
+        <item>(286) Allah does not impose upon any soul a duty but to the extent of its ability; for it is (the benefit of) what it has earned and upon it (the evil of) what it has wrought: Our Lord! do not punish us if we forget or make a mistake; Our Lord! do not lay on us a burden as Thou didst lay on those before us, Our Lord do not impose upon us that which we have not the strength to bear; and pardon us and grant us protection and have mercy on us, Thou art our Patron, so help us against the unbelieving people</item>
+        <item>1: Say: He, Allah, is One 2: Allah is He on Whom all depend 3: He begets not, nor is He begotten 4: And none is like Him</item>
+        <item>1: Say: I seek refuge in the Lord of the dawn 2: From the evil of what He has created 3: And from the evil of the utterly dark night when it comes 4: And from the evil of those who blow on knots 5: And from the evil of the envious when he envies</item>
+        <item>1: Say: I seek refuge in the Lord of men 2: The King of men 3: The god of men 4: From the evil of the whisperings of the slinking (Shaitan) 5: Who whispers into the hearts of men 6: From among the jinn and the men</item>
+        <item>We have reached the morning, and at this very time unto Allah belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent. My Lord, I ask You for the good of this day and the good of what follows it, and I take refuge in You from the evil of this day and the evil of what follows it. My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave.  [Muslim, Abu Dawud, Tirmidhi, Nasa\'i, and Ahmad]</item>
+        <item>We rise upon the fitrah of Islaam, and the word of pure faith, and upon the religion of our Prophet Muhammad and the religion of our forefather Ibraheem, who was a Muslim and of true faith and was not of those who associate others with Allaah</item>
+        <item>O Allah, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return</item>
+        <item>O Allah, I rose up in the morning with blessings, strength and concealment (of my shortcomings), all of which are from You. So complete all the blessings and strength from You and the concealment for me in this life and the hereafter</item>
+        <item>O Allah, what blessing I or any of Your creation have risen upon, is from You alone, without partner, so for You is all praise and unto You all thanks</item>
+        <item>O my Lord, all praises be to You as it should be due to Your Might and the Greatness of Your Power</item>
+        <item>I am pleased with Allah as a Lord, and Islam as a religion and Muhammad peace be upon to him as a Prophet</item>
+        <item>O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth</item>
+        <item>How perfect Allah is and I praise Him by the number of His creation and His pleasure, and by the weight of His throne, and the ink of His words</item>
+        <item>In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing.</item>
+        <item>‘O Allah, I take refuge in You lest I should commit shirk with You knowingly and I seek Your forgiveness for what I do unknowingly</item>
+        <item>I take refuge in Allah’s perfect words from the evil He has created</item>
+        <item>O Allah, Knower of the unseen and the seen, Creator of the heavens and the Earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim</item>
+        <item>O Ever Living,O Self-Subsisting &amp; Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs &amp; do not leave me to myself, even for the blink of an eye</item>
+        <item>O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favor upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.</item>
+        <item>O Allah, ily I have reached the morning and call on You, the bearers of Your throne, Your angles, and all of Your creation to witness that You are Allah, ne has the right to be worshipped except You, alone, without partner and that Muhammad is Your Servant and Messenger</item>
+        <item>O Allah, grant my body health, O Allah, grant my hearing health, O Allah, grant my sight health. None has the right to be worshipped except You ,  O Allah, I take refuge with You from disbelief and poverty, &amp; I take refuge with You from the punishment of the grave. None has the right to be worshipped except You</item>
+        <item>Allah is Sufficient for me, none has the right to be worshipped except Him, upon Him I rely and He is Lord of the exalted throne</item>
+        <item>We have reached the morning and at this very time all sovereignty belongs to Allah, Lord of the worlds. O Allah, I ask You for the good of this day, its triumphs and its victories, its light &amp; its blessings and its guidance, and I take refuge in You from the evil of this day and the evil that follows it.</item>
+        <item>None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, and He is over all things omnipotent.</item>
+        <item>How perfect Allah is</item>
+    </string-array>
+    <string-array name="morning_translit">
+        <item>2. Alhamdu lilla hi-rabbil Aalameen 3. Ar-rahma nir-raheem 4. Maa liki-yaw mid-deen 5. Iyyaa ka-naAA budu wa-iyya ka-nasta een 6. Ihh-dinass siratal-mustaqeem 7. Sira tall lazee-na an-AAamta Aaalayhim, ghay-ril maghdoo bi-Aalayhim walald-daal-leen</item>
+        <item>1. Alif laam meem 2. Zaa-likal kitabula rayba feehi, hu-dalil muttaqeena 3. Allazeena yu\'minoona bil-ghaybi wayu qee-moona-ssalata wamim-ma razaqna hum-unfiqoon 4. Wal-lazena yu\'minoona bima onzila ilayka wama onzila min qablik, wabial-akhirati hum yu\'qinoon 5. Ola-ika ala hudam mir-rabbi-him wa-ola-ika humul-muflihoon</item>
+        <item>Allahu laaa \'ilaaha \'illaa Huu. \'Al-Hayyul-Qayyuum. Laa ta\'-khuzuhuu sinatunw-wa laa nawm. Lahuu maa fissamaawaati wa ma fil-\'arz. Man-zallazii yashfa-\'u\'indahuuu \'illaa bi-\'iznih? Ya\'-lamu maa bayna \'aydiihim wa maa khalfahum. Wa laa yuhiituuna bi-shay-\'im-min \'ilmihiii \'illaa bimaa shaaa\'. Wasi-\'a Kursiyyu-hus-Samaawaati wal-\'arz; wa laa ya-\'uuduhuu hifzu -humaa wa Huwal-\'Aliyyul-\'Aziim</item>
+        <item>La ikraha feed-deen, Qaath-ta-bayyanar-rush-du minal-ghayy, Fa-mi- yakfur bit-taghooti wa-yuk-mimm biAllahi faqa-diss tamsaka bil-urr-watil-wuss-qa laang-infisama laha ,Walla-hu samee-un alim</item>
+        <item>Allahu waliyul-lazena amanoo yukh-rijuhum minaz-zu-lumati ilan-noor ,waalazee naka faroo awliya-oo-humutta-ghootu yukh-rijoo-nahum minan-noori ilaz-zoolumat, Ou\'la-ika as-habun nar ,Hum fee-ha khalidoon</item>
+        <item>Lillahi ma fee alssamawati wama fee al-ard, Wa-in tubdoo ma fee ang\'fusikum aw tukhfoohu yuhasibkum bihi Allah, Fayagh firu\'li mai-ya-shaoo wa-yu\'az-zubu mai-ya-sha wallahu ala kulli shay-in qadeer</item>
+        <item>Amana alrrasoolu bima onzila ilayhi min rabbihi waalmu/minoona, Kullun amana biAllahi wamala-ikatihi wakutubihi warusulihi, la nufarriqu bayna ahadin min rusulih, Waqaloo sami\'na waata\'na, Ghufranaka rabbana wa-ilayka almaseeru</item>
+        <item>La yukal-liful-lahu nafsan illa wus-aha,Laha ma kasabat wa-alayha maAk-tasabat,Rabbana la tu-akhithna inna-eena aw akhta\'na,Rabbana wala tahmil alina isran kama hamaltahu alal\'lazina min\'qablina,Rabbana wala tuhm-milna ma la ta qatalana bihi,Wao\'fu anna waighfir lana wairhamna,Aang\'ta mawlana faonsurna alal-qawmil kafireen</item>
+        <item>1. Qulhu walla-hu ahad, 2. Alla huss-samad, 3. Lam yalid walam yoolad, 4. Walam ya kul-lahu kufu waan ahaad</item>
+        <item>1. Qul aaoo\' zubi-rabbil falaaq, 2. Min sharri ma khalaqa, 3. Wamin sharri ghasiqin eeza waqab 4. Wamin shar-rin naffa-saa-thi feel  uoo-qaadh 5. Wamin sharri haa-sidin iza-hasadh</item>
+        <item>1. Qul a\'oozu bi-rabbin naas 2. Malikin naas 3. Ilah hin-naas 4. Min sharril was-wasil hannas 5. Alla-zee yu-was-wisu fee sudoo rin-naas 6. Minal jinn-nati waalnnas</item>
+        <item>Asbahna wa-asbaha mulku lillah walhamdu lillah, La ilaha illal-lah, wahdahu la shareeka lah, lahul-mulku walahul-hamd, Yohee wa yumeeto wahuwa ala kulli shayin qadeer, Rabbi as-aluka khayrama fee ha\'zaal-yawmi  wa-khayra ma ,Ba\'daho wa-aoozu-bika min sharri ha\'zaal-yawmi, washarri ma, Ba\'daho rabbi aa\'ozu-bika minal-kasal, wasoo-il kibar, Rabbi aa\'ozubika min aa\'zaa-bin fin-nar, wa aa\'zaa-bin fil-qabr</item>
+        <item>Asbahna  ala fitratil-islam, Wa\'ala kalimatil-ikhlas, Wa\'ala deeni nabiyyina Muhammad (Sallalla-hu alai hi wasallam), Wa\'ala millati abeena Ibraheema haneefan musliman, Waama kana minal-mushrikeen</item>
+        <item>Allahumma bika asbahna wabika amsayna, Wabika nahya ,wabika namootu wa-ilaykan-nushoor</item>
+        <item>Allahumma inni asbahtu minka ,Fi nimatin wa afiyatin wa sitr, fa atimma alayya ni\'mataka ,Wa afiyataka wa sitraka fi al dunya wa al akhira</item>
+        <item>Allahumma ma asbaha bee min nia\'matin, Wa bi-ahadin min khalqik, Faminka wahdaka la shareeka lak, Falakal-hamdu walakash-shukr</item>
+        <item>Yaa rabbil lakal"hamdu kama yanbaghii lijalaali wajhika, wa\'aziimi sultaanik</item>
+        <item>Radeetu billahi rabban wabil-islami deenan wabiMuhammadin sal-lalla-hu alaihi wasallam nabiyya wa rasulaan</item>
+        <item>Allahumma innee as-alukal aa\'fitah fid-dunya wal-akhirah, Allahumma innee as-alukal-aa\'fwa wal-aa\'fiyah, Fee deenee wad-dunya-ya wa-ahlee wa-ma-lee, Allah hummas-tur aaw-ratee wa-amin raw-aa\'tee ,wah-fitnee min bay\'ni yaday wamin khalfee, Wa\'aan ya-mee-nee wa\'aan shimalee wamin fawqee, Wa-aa\'oozu bi-aatha-matika aan oogh-tala min tahtee</item>
+        <item>Subhanal-lahi wabihamdih, Aa\'dada khalqihi warida nafsih, wazinata aa\'rshih, wamidada kalimatih</item>
+        <item>Bismil-lahil-lazee la-ydur-ru ma\'aas-mihi shay-on fil-ardi wala fis-sama-i wahuwas-sameeul-aa\'leem</item>
+        <item>Allah humma inni aa-uzubika min in\'ooshu-riak bika shai\'an aalamu wa aastagfiruka lema la aalaam</item>
+        <item>Aa\'oozu bikalimatil-lahit-tammati min sharri ma khalaq</item>
+        <item>Allahumma AAalimal-ghaybi washshahadah,Fatiras-samawati wal-ard,Rabba kulli shayin wa-ma-leekah, Ashhadu an-alaa ilaha illa ant, Aa\'oozu-bika min sharri nafsee wamin shar-rish-shaytani wa-shirk, Wa\'an aq-tarifa ala nafsee soo-an aw aa-jur-rahu ila muslim</item>
+        <item>Ya hayyu ya qayyoom, birahmatika astagheeth, aas-lih lee sha\'nee kullah, wala takilnee ila nafsee tarfata aay\'in </item>
+        <item>Allahumma anta rabbee la ilaha illa ant, Khalaq-tanee wa-ana aabduk, Wa-ana ala aah-dika wa wa\'dika mas-ta-taat, Aa\'oozu\'bika min sharri ma sanath, Aboo-o laka bini\'matika aa\'aly, wa-aboo-o bi-zan-bee, Faghfir lee fa-innahu la yagh-firu-zunooba illa ant</item>
+        <item>Allahumma innee Asbahtu oshhiduk, Wa-oshhidu hamalata aarshik, Wamala-ikatik, Wa-jamee\'aa khalqik, ann-naka antal-lahu la ilaha illa ant, Wah\'daka la shareeka lak, Wa-anna Muhammadan aabdu-ka wa-rasooluk</item>
+        <item>Allahumma aa\'fi-nee fee badanee, Allahumma a\'fi-nee fee sam\'ee, Allahumma aa\'fi-nee fee basa\'ree, la ilaha illa-ant, Allahumma innee aa\'oozu-bika minal-kufr, wal-faqr, Wa-aa\'oo-zu-bika min aazaabil-qabr, la ilaha illa-ant</item>
+        <item>Hasbiyal-lahu la ilaha illa huwa, aa\'layhi tawakkalt, wahuwa rabbul-aarshil-aazeem</item>
+        <item>Asbahna wa-asbahal mulku, Lillahi rabbil-aa\'la-meen, Allahumma innee as-aluka khayra ha-zal-yawm, Fat-hahu, wa-nas-rahu,wa-noo-rahu, wa-baraka-tahu,wahu-dahu, Wa-aa\'oozu-bika min sharrima feehi wa-shar-ri ma baa\'dah</item>
+        <item>La ilaha illa allahu wah dahu la shareeka lahu, Lahul mulku wa lahul hamdu, Wa huwa \'ala kullee shay\'in qadeer</item>
+        <item>Subhan Allah hee wa bi-hamdihi</item>
+    </string-array>
+    <string-array name="morning_desc">
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+        <item>Morning Azkar</item>
+    </string-array>
+    <string-array name="morning_ref">
+        <item>Sura Al-Fateha V.1-7</item>
+        <item>Sura Al-Bakarah V.1-5</item>
+        <item>Sura Al-Bakarah V.255</item>
+        <item>Sura Al-Bakarah V.256</item>
+        <item>Sura Al-Bakarah V.257</item>
+        <item>Sura Al-Bakarah V.284</item>
+        <item>Sura Al-Bakarah V.285</item>
+        <item>Sura Al-Bakarah V.286</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Abu Dawud 2:86. An Nasa\'i 3:68 also Al-Albani Sahih Timithi 2/8</item>
+        <item>Sahih Muslim - 4/2088</item>
+        <item>Hisnul muslim - Nasa\'i, Ahmad, &amp; Darimi</item>
+        <item>Trimidhi</item>
+        <item>Kitab al Azkar Al-Uthaymeen, Ibn Sonny</item>
+        <item>Abu Dawood Book 4 hadith 324</item>
+        <item>Kitab al Azkar Al-Uthaymeen, Tahzeeb Al-Kamali Lilmazi</item>
+        <item>Abu Dawood Book 4 hadith 318</item>
+        <item>Ibn Majah Book 2 hadith 323</item>
+        <item>Muslim - Book 4 Hadith 2090</item>
+        <item>Abu Dawood Book 4 hadith 323</item>
+        <item>Kitab al Azkar Al-Uthaymeen, Ahadith mokhtara Limaqdesy</item>
+        <item>Ahmed Book 2 hadith 290</item>
+        <item>Sahih Thirmidi Book 3 hadith 142</item>
+        <item>Sahih Tergib Ue Terhib 1/273</item>
+        <item>Al Bhukari 7/150</item>
+        <item>Abu Dawood Book 4 hadith 317</item>
+        <item>Abu Dawood Book 4 hadith 324</item>
+        <item>Abu Dawood Book 4 hadith 321</item>
+        <item>Abu Dawood Book 4 hadith 322</item>
+        <item>Muslim Book 4 hadith 2071</item>
+        <item>Muslim 4/2071</item>
+    </string-array>
+    <string-array name="daily">
+        <item>@drawable/d1</item>
+        <item>@drawable/d2</item>
+        <item>@drawable/d3</item>
+        <item>@drawable/d4</item>
+        <item>@drawable/d5</item>
+        <item>@drawable/d6</item>
+        <item>@drawable/d7</item>
+        <item>@drawable/d8</item>
+        <item>@drawable/d9</item>
+        <item>@drawable/d10</item>
+        <item>@drawable/d11</item>
+        <item>@drawable/d12</item>
+        <item>@drawable/d13</item>
+        <item>@drawable/d14</item>
+        <item>@drawable/d15</item>
+        <item>@drawable/d16</item>
+        <item>@drawable/d17</item>
+        <item>@drawable/d18</item>
+        <item>@drawable/d19</item>
+        <item>@drawable/d20</item>
+        <item>@drawable/d21</item>
+        <item>@drawable/d22</item>
+        <item>@drawable/d23</item>
+        <item>@drawable/d24</item>
+        <item>@drawable/d25</item>
+        <item>@drawable/d26</item>
+        <item>@drawable/d27</item>
+        <item>@drawable/d28</item>
+        <item>@drawable/d29</item>
+        <item>@drawable/d30</item>
+        <item>@drawable/d31</item>
+        <item>@drawable/d32</item>
+        <item>@drawable/d33</item>
+        <item>@drawable/d34</item>
+        <item>@drawable/d35</item>
+        <item>@drawable/d36</item>
+        <item>@drawable/d37</item>
+        <item>@drawable/d38</item>
+    </string-array>
+    <string-array name="daily_count">
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+    </string-array>
+    <string-array name="daily_trans">
+        <item>O Allah ,In Your Name, I die and I live</item>
+        <item>All praise be to Allah, who gave us life after killing us (sleep is a form of death) and to Him will we be raised and returned</item>
+        <item>"In the name of Allah,O Allah. I seek refuge in You from the male female evil and Jinn\'s"</item>
+        <item>"(O Allah) I seek forgiveness and pardon from You, All Praise be to Allah, who removed the difficulty from me and gave me ease (relief)".</item>
+        <item>"I begin in the name of Allah, who is the Most Merciful, Most Gracious"</item>
+        <item>"I testify that there is no one worthy of worship besides Allah. He is all by Himself and has no partner and I testify that Muhammad is Allah\'s Rasul (Messenger)"</item>
+        <item>"In the Name of Allah, and peace and blessings be upon the Messenger of Allah"O Allah, open the doors of mercy"</item>
+        <item>"In the Name of Allah, and peace and blessings be upon the Messenger of Allah. O Allah, I ask for Your favor, O Allah, protect me from Satan the outcast"</item>
+        <item>"In the name of Allah"</item>
+        <item>"In the name of Allah in the beginning and end"</item>
+        <item>"All praise belongs to Allah, who fed us and quenched our thirst and made us Muslims"</item>
+        <item>"O Allah, You grant us blessings in it and grant us better than it"</item>
+        <item>"I depart with Allah\'s name, relying on Him. It is Allah who saves us from sins with His guidance (the ability to do so)</item>
+        <item>In the Name of Allah we enter , in the Name of Allah we leave , &amp; upon our Lord we depend [then say As-Salaamu \'Alaykum to those present]</item>
+        <item>"Allah is pure, He has given control and without His power we would not have any control Without doubt we are to return to him"</item>
+        <item>"Allah is pure, He has given control and without His power we would not have any control Without doubt we are to return to him"</item>
+        <item>"All praise is for Allah"</item>
+        <item>"May Allah have mercy on you"</item>
+        <item>"May Allah guide you and rectify your condition"</item>
+        <item>None has the right to be worshipped except Allaah, alone, without partner, to Him belongs all sovereignty and praise. He gives life and causes death, and He is living and does not die. In His hand is all good and He is over all things, omnipotent</item>
+        <item>"I am having relations in the name of Allah. O Allah save us from Satan and keep him away from the children You grant us". The child that is born after the recitation of this dua will never be harmed by Satan"</item>
+        <item>"O Allah, the Lord of this total call (invitation, proclamation) and the Lord of the Salat to begin, grant Muhammad \'intercession\' ( a status) and grant him superiority and let him reach Mooqame Mahmood which You have promised, for definitely You do not go back on Your promises"</item>
+        <item>"O Allah, forgive our living and our dead, those present and those absent, our young and our old, our males and our females. O Allah, whom amongst us You keep alive, then let such a life be upon Islam, and whom amongst us You take unto Yourself, then let such a death be upon faith. O Allah, do not deprive us of his reward and do not let us stray after him"</item>
+        <item>How perfect Allah is and I praise Him. How perfect Allah is, The Supreme Whoever says: hundred times during the day, his sins are wiped away, even if they are like the foam of the sea.\' Abu Hurayrah reported that the Messenger of Allah (S) said: ‘(There are) Two words, (which are) light on the tongue, heavy on the Scale and beloved to The Most Gracious</item>
+        <item>O Allah You are The One Who pardons greatly, and loves to pardon, so pardon me</item>
+        <item>There is no might nor power except with Allah</item>
+        <item>How perfect Allah is, and all praise is for Allah. None has the right to be worshipped except Allah, and Allah is the greatest</item>
+        <item>Non has the right to be worshipped except you. How perfect you are, verily I was among the wrong-doers</item>
+        <item>Allah is sufficient for us, and how fine a trustee (He is)</item>
+        <item>O Allah, save me from the fire</item>
+        <item>‘O Allah, I take refuge in You lest I should commit shirk with You knowingly and I seek Your forgiveness for what I do unknowingly</item>
+        <item>I seek protection for you in the Perfect Words of Allah from every devil and every beast , and from every envious blameworthy eye (Ibn Aabbas related that the Messenger of Allah (SAW) used to seek Allah’s protection for Al-Hasan and Al-Husain)</item>
+        <item>Our Lord! Forgive me and my parents, and (all) the believers on the Day when the reckoning will be established (Also recite) My Lord! Have mercy on them both as they did care for me when I was young.</item>
+        <item>The thirst has quenched and left wetness and with the will of Allah, reward is proven (certain) ::: There is NO authentic intention for fast however you should have the intention in your heart</item>
+        <item>Do not worry, it will be a purification (for you) Allah willing.</item>
+        <item>I ask Almighty Allah , Lord of the Magnificent Throne, to make you well. (Recite seven times in Arabic) Prophet Mohammad (SAW) said that by reciting this  Dua seven times, the ill person will regain his health and if death occurs then that (death) is a different issue (i.e. death is written it cannot be prevented)</item>
+        <item>O Lord of the people, remove this pain and cure it, You are the one who cures and there is no one besides You who can cure, grant such a cure that no illness remains. (Ayesha (RA) stated that when anyone among them had an illness, Prophet Mohammad (SAW) used to rub the area of the pain reciting the this Dua,. Also Ayesha (RA) stated that when Prophet Mohammad (SAW) was ill, he used to recite the four Quls, blow on his hands and pass them over on the back and front, He also recited these surahs, blew on his hands and passed them over his body during his fatal illness)</item>
+        <item>Peace be upon you, people of this abode, from among the believers and those who are Muslims , and we , by the Will of Allah, shall be joining you. I ask Allah to grant us and you strength.</item>
+    </string-array>
+    <string-array name="daily_translit">
+        <item>Allah humma bis-mika aamu\'tu wa aah\'ya</item>
+        <item>Alhamdu lillahil-lathee ahyana ba\'da ma amatana wa-ilayhin-nushoor</item>
+        <item>(Bismil-lah) allahumma innee aa\'oozuu bika minal-khubthi wal-khaba-ith</item>
+        <item>Ghufranak, alhamdu lillah-hil lazee-aaz haba annil-aaza wa\'aafini</item>
+        <item>Bismilla hir-rahma nir-raheem</item>
+        <item>Ashhadu an la ilaha illal-lahu wahdahu la shareeka lah, wa-ashhadu anna Muhammadan aab-duhu warasooluh</item>
+        <item>Bismil-lah, wassalatu wassalamu ala rasoolil-lah, allahummaf tah-lee aab-wa ba rahmatik</item>
+        <item>Bismil-lah wassalatu wassalamu ala rasoolil-lah, allahumma innee as-aluka min fadlik</item>
+        <item>Bismil-lah</item>
+        <item>Bismil-lahi fee awwalihi wa-akhirih</item>
+        <item>Alhamdu lillah hil lazi aat\'aa mana wasakana wa-ja-aa,lana  muslimin</item>
+        <item>Allahumma barik lana feehi wa-aath-imna khayran minh</item>
+        <item>Bismil-lah, tawakkaltu alal-lah, wala hawla wala quwwata illa billah.</item>
+        <item>Bismil-lahi walajna, wabismil-lahi kharajna, wa\'ala rabbina tawakkalna</item>
+        <item>Subha-nal-lazi sakh-kha ralana haza wama kunna lahu mukhri-nee-na wa-inna ila rabbina lamun-qaliboon</item>
+        <item>Subha-nal-lazi sakh-kha ralana haza wama kunna lahu mukhri-nee-na wa-inna ila rabbina lamun-qaliboon, Ayiboona, ta-iboona, AAabidoona, lirabbina hamidoon</item>
+        <item>Alhamdu lillah </item>
+        <item>Yaarha-muk-Allah</item>
+        <item>Yahdeekumul-lahu wayuslihu balakum</item>
+        <item>La ilaha illal-lah, wahdahu la shareeka lah, lahul-mulku walahul-hamd, yuhyee wa-yumeetu wa\'huwa hayyun la yamoot, biyadihil-khayru wahuwa A\'ala kulli shayin qadeer</item>
+        <item>Bismillah, allah humma jannib-nash-shaita na maa razaak tana</item>
+        <item>Allahumma rabba hathihid-da\'watit-tammah, wassalatil-qa-imah ati Muhammadan alwaseelata wal-fadeelah, wab-aas-hu maqaman mahmoodan al-la-zee wa\'aad-tah, innaka la tukhliful-mee\'ad</item>
+        <item>Allahummagh-fir lihayyina wamayyitina washahidina, wagha-ibina, wasagheerina wakabeerina, wathakarina wa-oong-saana. Allahumma man ahyaytahu minna fa-ahyihi alal-islam, waman tawaffaytahu minna fatawaffahu alal-eeman, allahumma la tahrimna ajrah, wala tudillana ba\'dah</item>
+        <item>SubhanAllah wa Bihamdihi, SubhanAllah hil aahzim</item>
+        <item>Allahumma innaka \'affuwwun tuhibbul \'afwa fa\'fu \'anni\'</item>
+        <item>La hawla wa laqu-aata illah billah</item>
+        <item>SubhanAllah hee wa Bihamdihi, wa la ilaha illal lahu wallaho Akbar</item>
+        <item>La Illaha Illa Anta Subhanaka Inni Kuntum Minz zalmin</item>
+        <item>Hasbuna-Allah wa ni\'am alwakil</item>
+        <item>Allah humma aa jirnee minan naar</item>
+        <item>Allahumma innee aa\'ozu bika an oshrika bika wa-ana aa\'lam, wa-astaghfiruka lima la aa\'lam</item>
+        <item>Oee-zukuma bikalimatil-lahit-tammah, min kulli shaytanin wahammah, wamin kulli aay-nin lammah</item>
+        <item>Rabbighfir lii wali-waalidayya walilmum-iniina yauma yaquumul hisaab (Also recite) Rabbirhamhumaa kamaa rabbayaani sag-hiiraa</item>
+        <item>Zhahabadh-dhama\'u wabtallatil-\'urooqu, wa thabatal-\'ajru \'inshaa\'Allaah. ::: There is NO authentic intention for fast however you should have the intention in your heart</item>
+        <item>Laa ba\'sa tahoorun \'inshaa\'Allaah</item>
+        <item>As\'alullaahal-\'Adheema Rabbal-\'Arshil-\'Adheemi \'an yashfiyaka</item>
+        <item>Azhibil-bah-saa rabban-naasi waasfi aan-tash-shafee la shifa-aah illah shifa-wooka shifa-woon laa you-gaa dee-ru sha-qaa-maa</item>
+        <item>Assalaamu \'alaykum \'ahlad-diyaari, minal-mu\'mineena walmuslimeena, wa \'innaa \'in shaa\' Allaahu bikum laahiqoona \'as\'alullaaha lanaa wa lakumul- \'aafiyata</item>
+    </string-array>
+    <string-array name="daily_desc">
+        <item>Upon going to sleep</item>
+        <item>On awakening from sleep</item>
+        <item>Upon Entering Toilet</item>
+        <item>Upon Leaving Toilet</item>
+        <item>Start of Wudu</item>
+        <item>Completion of Wudu</item>
+        <item>Entering the Mosque</item>
+        <item>Leaving the Mosque</item>
+        <item>Before meals</item>
+        <item>Forgetting to recite Bismillah at the beginning</item>
+        <item>After meals</item>
+        <item>After meals</item>
+        <item>Upon Leaving Home</item>
+        <item>Upon Entering Home</item>
+        <item>On Journey</item>
+        <item>On Return From Journey</item>
+        <item>When Sneeze</item>
+        <item>On hearing someone sneeze</item>
+        <item>One who sneezed replies back</item>
+        <item>When entering the Market</item>
+        <item>Intention of having relation with wife</item>
+        <item>After Adhaan</item>
+        <item>Dua for Janaza</item>
+        <item>Remembrance &amp; glorification of Allah</item>
+        <item>Remembrance &amp; glorification of Allah</item>
+        <item>Remembrance &amp; glorification of Allah</item>
+        <item>Remembrance &amp; glorification of Allah</item>
+        <item>Supplication for one in Distress</item>
+        <item>Stricken with a mishap or overtaken by an affair</item>
+        <item>Protection from hellfire</item>
+        <item>Supplication for fear of shirk</item>
+        <item>Placing children under Allah’s protection</item>
+        <item>Dua for the Parents</item>
+        <item>When breaking fast</item>
+        <item>When visiting the sick</item>
+        <item>For Good Health</item>
+        <item>For the cure of any illness</item>
+        <item>Visiting the graves</item>
+    </string-array>
+    <string-array name="daily_ref">
+        <item>Muslim 4/2083 &amp; Fathul-Bari 11/113</item>
+        <item>Muslim 4/2083 &amp; Fathul-Bari 11/113</item>
+        <item>Al-Bhukari 1/45 &amp; Muslim 1/283</item>
+        <item>Abu Dawud, Ibn Majah &amp; At-Trimidi</item>
+        <item>Abu Dawud, Ibn Majah &amp; Ahmad</item>
+        <item>Sahih Muslim 1/209</item>
+        <item>Abu Dawud, Ibn As-Sunni Hadith 88 &amp; Al-Albani</item>
+        <item>Abu Dawood, Saheeh Al-Jaami 4591</item>
+        <item>Abu Dawud 3/437, At-Tirmidhi 4/288</item>
+        <item>Abu Dawud 3/437, At-Tirmidhi 4/288</item>
+        <item>Abu Dawud, At-Tirmidhi, an-Nasa\'i, Ibn Majah</item>
+        <item>At-Tirmidhi  5/506</item>
+        <item>Tirmidhi</item>
+        <item>Tirmidhi</item>
+        <item>Abu Dawud 3/34 &amp; At-Tirmidhi 5/501 &amp; 3/156</item>
+        <item>Abu Dawud 3/34 &amp; At-Tirmidhi 5/501 &amp; 3/156</item>
+        <item>Al-Bhukari 7/125</item>
+        <item>Al-Bhukari 7/125</item>
+        <item>Al-Bhukari 7/125</item>
+        <item>At-Tirmidhi-hasan</item>
+        <item>Abu Dawud 2/248, Ibn Majah 1/617</item>
+        <item>Mishkat</item>
+        <item>Ibn Majah 1/480 &amp; Ahmed 2/368</item>
+        <item>Al Bhukari 4/2071</item>
+        <item>At Tirmidhi</item>
+        <item>Al-Bhukari &amp; Muslim 4/2076</item>
+        <item>Sahih Muslim 4/2072</item>
+        <item>Sura An-Anbiyah 21:87</item>
+        <item>Sahih al Bhukari 5:172</item>
+        <item>Abu Dawood</item>
+        <item>Ahmed 4/403</item>
+        <item>Al-Bukhari 4/119</item>
+        <item>Surah Ibrahim 14:41 &amp; Sura Al-Isra 17:24</item>
+        <item>Abu Dawud 2/306 &amp; Al- Albani, Sahihul-Jami\' As-Saghir 4/209</item>
+        <item>Al-Bukhari, cf. Al-Asqalani Fathul-Bari 10/118.</item>
+        <item>At-Tirmithi 2/210, Abu Dawud, Al-Albani, and Sahihul-Jami\' As-Saghir 5/180.</item>
+        <item>Bukhari &amp; Muslim</item>
+        <item>Muslim 2/671, Ibn Majah 1/494</item>
+    </string-array>
+    <string-array name="rabbana">
+        <item>@drawable/r1</item>
+        <item>@drawable/r2</item>
+        <item>@drawable/r3</item>
+        <item>@drawable/r4</item>
+        <item>@drawable/r5</item>
+        <item>@drawable/r6</item>
+        <item>@drawable/r7</item>
+        <item>@drawable/r8</item>
+        <item>@drawable/r9</item>
+        <item>@drawable/r10</item>
+        <item>@drawable/r11</item>
+        <item>@drawable/r12</item>
+        <item>@drawable/r13</item>
+        <item>@drawable/r14</item>
+        <item>@drawable/r15</item>
+        <item>@drawable/r16</item>
+        <item>@drawable/r17</item>
+        <item>@drawable/r18</item>
+        <item>@drawable/r19</item>
+        <item>@drawable/r20</item>
+        <item>@drawable/r21</item>
+        <item>@drawable/r22</item>
+        <item>@drawable/r23</item>
+        <item>@drawable/r24</item>
+        <item>@drawable/r25</item>
+        <item>@drawable/r26</item>
+        <item>@drawable/r27</item>
+        <item>@drawable/r28</item>
+        <item>@drawable/r29</item>
+        <item>@drawable/r30</item>
+        <item>@drawable/r31</item>
+        <item>@drawable/r32</item>
+        <item>@drawable/r33</item>
+        <item>@drawable/r34</item>
+        <item>@drawable/r35</item>
+        <item>@drawable/r36</item>
+        <item>@drawable/r37</item>
+        <item>@drawable/r38</item>
+        <item>@drawable/r39</item>
+        <item>@drawable/r40</item>
+    </string-array>
+    <string-array name="rabbana_count">
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+        <item>Once</item>
+    </string-array>
+    <string-array name="rabbana_trans">
+        <item>Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing</item>
+        <item>Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites and accept our repentance. Indeed, You are the Accepting of repentance, the Merciful.</item>
+        <item>Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.</item>
+        <item>Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.</item>
+        <item>Our Lord, do not impose blame upon us if we have forgotten or erred.</item>
+        <item>Our Lord, and lay not upon us a burden like that which You laid upon those before us. </item>
+        <item>Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.</item>
+        <item>Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.</item>
+        <item>Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.</item>
+        <item>Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire</item>
+        <item>Our Lord, we have believed in what You revealed and have followed the messenger Jesus, so register us among the witnesses [to truth].</item>
+        <item>Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people.</item>
+        <item>Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.</item>
+        <item>Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.</item>
+        <item>Our Lord, indeed we have heard a caller calling to faith, [saying], \'Believe in your Lord,\' and we have believed.</item>
+        <item>Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.</item>
+        <item>Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.</item>
+        <item>Our Lord, we have believed, so register us among the witnesses.</item>
+        <item>O Allah , our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers.</item>
+        <item>Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.</item>
+        <item>Our Lord, do not place us with the wrongdoing people.</item>
+        <item>Our Lord, decide between us and our people in truth, and You are the best of those who give decision.</item>
+        <item>Our Lord, pour upon us patience and let us die as Muslims [in submission to You].</item>
+        <item>Our Lord, make us not [objects of] trial for the wrongdoing people And save us by Your mercy from the disbelieving people."</item>
+        <item>Our Lord, indeed You know what we conceal and what we declare, and nothing is hidden from Allah on the earth or in the heaven.</item>
+        <item>Our Lord, and accept my supplication.</item>
+        <item>Our Lord, forgive me and my parents and the believers the Day the account is established.</item>
+        <item>Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.</item>
+        <item>Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.</item>
+        <item>Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.</item>
+        <item>Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering; Indeed, it is evil as a settlement and residence.</item>
+        <item>Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.</item>
+        <item>Our Lord is indeed Oft-Forgiving Ready to appreciate (service)</item>
+        <item>Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.</item>
+        <item>Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise.And protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment.</item>
+        <item>Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. </item>
+        <item>Our Lord, indeed You are Kind and Merciful.</item>
+        <item>Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.</item>
+        <item>Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.</item>
+        <item>Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.</item>
+    </string-array>
+    <string-array name="rabbana_translit">
+        <item>Rabbana taqabbal minna innaka antas Sameeaul Aleem</item>
+        <item>Rabbana wa-j\'alna Muslimayni laka wa min Dhurriyatina \'Ummatan Muslimatan laka wa \'Arina Manasikana wa tub \'alayna \'innaka \'antat-Tawwabu-Raheem</item>
+        <item>Rabbana atina fid-dunya hasanatan wa fil \'akhirati hasanatan waqina \'adhaban-nar</item>
+        <item>Rabbana afrigh \'alayna sabran wa thabbit aqdamana wansurna \'alal-qawmil-kafirin</item>
+        <item>Rabbana la tu\'akhidhna in-nasina aw akhta\'na</item>
+        <item>Rabbana wala tahmil alayna isran kama hamaltahu \'alal-ladheena min qablina</item>
+        <item>Rabbana wala tuhammilna ma la taqata lana bihi wa\'fu anna waghfir lana wairhamna anta mawlana fansurna \'alal-qawmil kafireen</item>
+        <item>Rabbana la tuzigh quloobana ba\'da idh hadaytana wa hab lana milladunka rahmah innaka antal Wahhab</item>
+        <item>Rabbana innaka jami\'unnasi li-Yawmil la rayba fi innAllaha la yukhliful mi\'aad</item>
+        <item>Rabbana innana amanna faghfir lana dhunuubana wa qinna \'adhaban-Naar</item>
+        <item>Rabbana amanna bima anzalta wattaba \'nar-Rusula fak-tubna ma\'ash-Shahideen</item>
+        <item>Rabbana-ghfir lana dhunuubana wa israfana fi amrina wa thabbit aqdamana wansurna \'alal qawmil kafireen</item>
+        <item>Rabbana ma khalaqta hadha batila Subhanaka faqina \'adhaban-Naar</item>
+        <item>Rabbana innaka man tudkhilin nara faqad akhzaytah wa ma liDh-dhalimeena min ansar</item>
+        <item>Rabbana innana sami\'na munadiyany-yunadi lil-imani an aminu bi Rabbikum fa\'aamanna</item>
+        <item>Rabbana faghfir lana dhunoobana wa kaffir \'ana sayyi\'aatina wa tawaffana ma\'al Abrar</item>
+        <item>Rabbana wa \'atina ma wa\'adtana \'ala rusulika wa la tukhzina yawmal-Qiyamah innaka la tukhliful mi\'aad</item>
+        <item>Rabbana aamana faktubna ma\' ash-shahideen</item>
+        <item>Rabbana anzil \'alayna ma\'idatam minas-Samai tuknu lana \'idal li-awwa-lina wa aakhirna wa ayatam-minka war-zuqna wa anta Khayrul-Raziqeen</item>
+        <item>Rabbana zalamna anfusina wa il lam taghfir lana wa tarhamna lana kunan minal-khasireen</item>
+        <item>Rabbana la taj\'alna ma\'al qawwmi-dhalimeen</item>
+        <item>Rabbanaf-tah baynana wa bayna qawmina bil haqqi wa anta Khayrul Fatiheen</item>
+        <item>Rabbana afrigh \'alayna sabraw wa tawaffana Muslimeen</item>
+        <item>Rabbana la taj\'alna fitnatal lil-qawmidh-Dhalimeen wa najjina bi-Rahmatika minal qawmil kafireen</item>
+        <item>Rabbana innaka ta\'lamu ma nukhfi wa ma nu\'lin wa ma yakhfa \'alal-lahi min shay\'in fil-ardi wa la fis-Sama\'</item>
+        <item>Rabbana wa taqabbal Du\'a</item>
+        <item>Rabbana ghfir li wa li wallidayya wa lil Mu\'mineena yawma yaqumul hisaab</item>
+        <item>Rabbana \'atina mil-ladunka Rahmataw wa hayyi lana min amrina rashada</item>
+        <item>Rabbana innana nakhafu any-yafruta \'alayna aw any-yatgha</item>
+        <item>Rabbana amanna faghfir lana warhamna wa anta khayrur Rahimiin</item>
+        <item>Rabbanas-rif \'anna \'adhaba jahannama inna \'adhabaha kana gharama innaha sa\'at musta-qarranw wa muqama</item>
+        <item>Rabbana Hablana min azwaajina wadhurriy-yatina, qurrata \'ayioni wa-jalna lil-muttaqeena Imaama</item>
+        <item>Rabbana la Ghafurun shakur</item>
+        <item>Rabbana wasi\'ta kulla sha\'ir Rahmatanw wa \'ilman faghfir lilladhina tabu wattaba\'u sabilaka waqihim \'adhabal-Jahiim</item>
+        <item>Rabbana wa adhkhilhum Jannati \'adninil-lati wa\'attahum wa man salaha min aba\'ihim wa azwajihim wa dhuriyyatihim innaka antal \'Azizul-Hakim, waqihimus sayyi\'at wa man taqis-sayyi\'ati yawma\'idhin faqad rahimatahu wa dhalika huwal fawzul-\'Adheem</item>
+        <item>Rabbana-ghfir lana wa li \'ikhwani nalladhina sabaquna bil imani wa la taj\'al fi qulubina ghillal-lilladhina amanu</item>
+        <item>Rabbana innaka Ra\'ufur Rahim</item>
+        <item>Rabbana \'alayka tawakkalna wa-ilayka anabna wa-ilaykal masir</item>
+        <item>Rabbana la taj\'alna fitnatal lilladhina kafaru waghfir lana Rabbana innaka antal \'Azizul-Hakim</item>
+        <item>Rabbana atmim lana nurana waighfir lana innaka \'ala kulli shay-in qadir</item>
+    </string-array>
+    <string-array name="rabbana_ref">
+        <item>Surah Al-Baqarah V.127</item>
+        <item>Surah Al-Baqarah V.128</item>
+        <item>Surah Al-Baqarah V.201</item>
+        <item>Surah Al-Baqarah V.250</item>
+        <item>Surah Al-Baqarah V.286</item>
+        <item>Surah Al-Baqarah V.286</item>
+        <item>Surah Al-Baqarah V.286</item>
+        <item>Surah \'Ali \'Imran V.8</item>
+        <item>Surah \'Ali \'Imran V.9</item>
+        <item>Surah \'Ali \'Imran V.16</item>
+        <item>Surah \'Ali \'Imran V.53</item>
+        <item>Surah \'Ali \'Imran V.147</item>
+        <item>Surah \'Ali \'Imran V.191</item>
+        <item>Surah \'Ali \'Imran V.192</item>
+        <item>Surah \'Ali \'Imran V.193</item>
+        <item>Surah \'Ali \'Imran V.193</item>
+        <item>Surah \'Ali \'Imran V.194</item>
+        <item>Surah Al-Ma\'idah V.83</item>
+        <item>Surah Al-Ma\'idah V.114</item>
+        <item>Surah Al-\'A\'raf V.23</item>
+        <item>Surah Al-\'A\'raf V.47</item>
+        <item>Surah Al-\'A\'raf V.89</item>
+        <item>Surah Al-\'A\'raf V.126</item>
+        <item>Surah Yunus V.85-86</item>
+        <item>Surah \'Ibrahim V.38</item>
+        <item>Surah \'Ibrahim V.40</item>
+        <item>Surah \'Ibrahim V.41</item>
+        <item>Surah Al-Kahf V.10</item>
+        <item>Surah Taha V.45</item>
+        <item>Surah Al-Mu\'minun V.109</item>
+        <item>Surah Al-Furqan V.65-66</item>
+        <item>Surah Al-Furqan V.74</item>
+        <item>Surah Fatir V.34</item>
+        <item>Surah Ghafir V.7</item>
+        <item>Surah Ghafir V.8-9</item>
+        <item>Surah Al-Hashr V.10</item>
+        <item>Surah Al-Hashr V.10</item>
+        <item>Surah Al-Mumtahanah V.4</item>
+        <item>Surah Al-Mumtahanah V.5</item>
+        <item>Surah At-Tahrim V.8</item>
+    </string-array>
+    <string-array name="rabbana_desc">
+        <item>Surah Al-Baqarah V.127</item>
+        <item>Surah Al-Baqarah V.128</item>
+        <item>Surah Al-Baqarah V.201</item>
+        <item>Surah Al-Baqarah V.250</item>
+        <item>Surah Al-Baqarah V.286</item>
+        <item>Surah Al-Baqarah V.286</item>
+        <item>Surah Al-Baqarah V.286</item>
+        <item>Surah \'Ali \'Imran V.8</item>
+        <item>Surah \'Ali \'Imran V.9</item>
+        <item>Surah \'Ali \'Imran V.16</item>
+        <item>Surah \'Ali \'Imran V.53</item>
+        <item>Surah \'Ali \'Imran V.147</item>
+        <item>Surah \'Ali \'Imran V.191</item>
+        <item>Surah \'Ali \'Imran V.192</item>
+        <item>Surah \'Ali \'Imran V.193</item>
+        <item>Surah \'Ali \'Imran V.193</item>
+        <item>Surah \'Ali \'Imran V.194</item>
+        <item>Surah Al-Ma\'idah V.83</item>
+        <item>Surah Al-Ma\'idah V.114</item>
+        <item>Surah Al-\'A\'raf V.23</item>
+        <item>Surah Al-\'A\'raf V.47</item>
+        <item>Surah Al-\'A\'raf V.89</item>
+        <item>Surah Al-\'A\'raf V.126</item>
+        <item>Surah Yunus V.85-86</item>
+        <item>Surah \'Ibrahim V.38</item>
+        <item>Surah \'Ibrahim V.40</item>
+        <item>Surah \'Ibrahim V.41</item>
+        <item>Surah Al-Kahf V.10</item>
+        <item>Surah Taha V.45</item>
+        <item>Surah Al-Mu\'minun V.109</item>
+        <item>Surah Al-Furqan V.65-66</item>
+        <item>Surah Al-Furqan V.74</item>
+        <item>Surah Fatir V.34</item>
+        <item>Surah Ghafir V.7</item>
+        <item>Surah Ghafir V.8-9</item>
+        <item>Surah Al-Hashr V.10</item>
+        <item>Surah Al-Hashr V.10</item>
+        <item>Surah Al-Mumtahanah V.4</item>
+        <item>Surah Al-Mumtahanah V.5</item>
+        <item>Surah At-Tahrim V.8</item>
+    </string-array>
+</resources>
